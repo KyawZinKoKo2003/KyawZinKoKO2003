@@ -3,10 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawzinkoko2003&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzinkoko2003" /> </p>
 
+- 🔭 I’m currently working on **Freelance project,Hand on lab project and other**
+
 - 📫 How to reach me **kyawzinkoko.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyaw-zin-ko-ko-89122a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyaw-zin-ko-ko-89122a223/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kyaw.z.ko.50999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kyaw.z.ko.50999" height="30" width="40" /></a>
 </p>
 
